@@ -1,3 +1,3 @@
 <HTML>
-  <P>bOM DIA</P>P
+  <P>BOM DIA</P>
 </HTML>
